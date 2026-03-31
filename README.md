@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I'm hopkdj
 
-<!--
-**hopkdj/hopkdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Building things with code | 🤖 Automation enthusiast | 💰 Crypto bounty hunter
 
-Here are some ideas to get you started:
+## 🔗 Ecosystems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![RustChain](https://img.shields.io/badge/RustChain-Proof_of_Antiquity-blue?style=flat-square)](https://github.com/Scottcjn/RustChain)
+[![BCOS Certified](https://img.shields.io/badge/BCOS-L1_Certified-green?style=flat-square)](https://github.com/Scottcjn/RustChain)
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript/TypeScript, Solidity
+- **Focus:** Crypto automation, trading bots, bounty hunting
+- **Tools:** CCXT, Freqtrade, Hummingbot, web3.py
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hopkdj&show_icons=true&theme=radical)
