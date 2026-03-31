@@ -6,6 +6,7 @@
 
 [![RustChain](https://img.shields.io/badge/RustChain-Proof_of_Antiquity-blue?style=flat-square)](https://github.com/Scottcjn/RustChain)
 [![BCOS Certified](https://img.shields.io/badge/BCOS-L1_Certified-green?style=flat-square)](https://github.com/Scottcjn/RustChain)
+[![RustChain Bounty Hunter](https://img.shields.io/badge/RustChain-Bounty_Hunter-gold?style=flat-square)](https://github.com/Scottcjn/rustchain-bounties)
 
 ## 🛠️ Tech Stack
 
